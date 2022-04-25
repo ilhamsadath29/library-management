@@ -1,4 +1,3 @@
-# library-management
 <h1 align="center" dir="auto"><a id="user-content-react-laravel" class="anchor" aria-hidden="true" href="#react-laravel"></a>React Laravel</h1>
 
 # Requirements
